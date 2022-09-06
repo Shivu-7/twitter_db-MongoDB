@@ -3,7 +3,7 @@
 ##### Task: using Mongo command line (please do not use MongoDB Compass) to write code to finish the challenge of “querying”. <img width="468" alt="image" src="https://user-images.githubusercontent.com/23645932/188757431-f73134fe-d1c7-41f7-b8c9-cc849c350ccf.png">
 
 
-##### Task: Create a MongoDB database “twitter_db” that includes a collection called “tweets”. Add the file “tweets.json” (from google) to the collection. You can use MongoDB Compass to do that. It will take some time to upload the data.<img width="468" alt="image" src="https://user-images.githubusercontent.com/23645932/188757519-1449ed17-78c5-4764-b005-8e8134fa96ea.png">
+##### Task: Create a MongoDB database “twitter_db” that includes a collection called “tweets”. Add the file “tweets.json” (file in teh foler, has info. of 40k tweets) to the collection. You can use MongoDB Compass to do that. It will take some time to upload the data.<img width="468" alt="image" src="https://user-images.githubusercontent.com/23645932/188757519-1449ed17-78c5-4764-b005-8e8134fa96ea.png">
 
 
 
